@@ -1,0 +1,35 @@
+{
+    "name": "blomstra/notification-deleter",
+    "description": "Adds an option to delete your notifications",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": ">=1.0.0 <1.2.0"
+    },
+    "authors": [
+        {
+            "name": "IanM",
+            "email": "ian@blomstra.net",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Blomstra\\NotificationDeleter\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Notification Deleter",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-trash-alt",
+                "backgroundColor": "#EBF1FD",
+                "color": "#3a98d0"
+            }
+        }
+    }
+}
