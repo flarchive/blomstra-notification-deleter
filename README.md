@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of blomstra/notification-deleter.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/notification-deleter) or the [upstream repository](https://github.com/blomstra/flarum-ext-notification-deleter).
 
-**0** versions archived · Latest: [`0.2.1`](https://github.com/flarchive/blomstra-notification-deleter/tree/archive/v0.2.1) · License: `MIT` · Flarum: `^1.2.0`
+**5** versions archived · Latest: [`0.2.1`](https://github.com/flarchive/blomstra-notification-deleter/tree/archive/v0.2.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-12-15 | `>=1.0.0 <1.2.0` | [Browse](https://github.com/flarchive/blomstra-notification-deleter/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-01-11 | `>=1.0.0 <1.2.0` | [Browse](https://github.com/flarchive/blomstra-notification-deleter/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-01-20 | `>=1.0.0 <1.2.1` | [Browse](https://github.com/flarchive/blomstra-notification-deleter/tree/archive/v0.1.2) |
+| `0.2.0` | 2022-01-25 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-notification-deleter/tree/archive/v0.2.0) |
+| `0.2.1` | 2022-01-25 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-notification-deleter/tree/archive/v0.2.1) |
 
 Catalog entry: [packages/blomstra-notification-deleter.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-notification-deleter.json)
 
